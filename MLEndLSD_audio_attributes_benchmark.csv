@@ -760,7 +760,7 @@ filename,Area,Spot,In_Out,Contributor,Duration,Benchmark_A
 0759.wav,westend,charing,indoor,S78,7.57,Train
 0760.wav,mlend_campus,ground,indoor,S176,8.26,Train
 0761.wav,westend,market,indoor,S18,10.43,Train
-0762.wav,british_museum,room13,indoor,S71,7.5,Train
+0762.wav,british_museum,room23,indoor,S71,7.5,Train
 0763.wav,westend,national,indoor,S89,7.89,Train
 0764.wav,mlend_campus,square,outdoor,S92,6.47,Test
 0765.wav,kensington,albert,outdoor,S103,7,Train
